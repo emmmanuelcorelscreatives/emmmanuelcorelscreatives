@@ -62,4 +62,3 @@ Stay updated with the latest tutorials and projects at [Emmanuel Corels Creative
 Happy coding! 🎉
 ```
 
-This template provides a clear structure, instructions, and contribution guidelines for users visiting your repository.
